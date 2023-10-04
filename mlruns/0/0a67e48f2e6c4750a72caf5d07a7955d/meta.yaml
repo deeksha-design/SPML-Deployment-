@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/students%20performance%20ml%20deployment/SPML-Deployment-/mlruns/0/0a67e48f2e6c4750a72caf5d07a7955d/artifacts
+end_time: 1696004233137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a67e48f2e6c4750a72caf5d07a7955d
+run_name: casual-mouse-33
+run_uuid: 0a67e48f2e6c4750a72caf5d07a7955d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696004183525
+status: 3
+tags: []
+user_id: DELL
